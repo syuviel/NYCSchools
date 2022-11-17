@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="sat_na">SAT Scores Unavailable</string>
+    <string name="sat_takers">Number of Takers: </string>
+    <string name="sat_read">SAT Reading: </string>
+    <string name="sat_write">SAT Writing: </string>
+    <string name="sat_math">SAT Math: </string>
+    <string name="sat_details">SAT Details</string>
+
+</resources>
